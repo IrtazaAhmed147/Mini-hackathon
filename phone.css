@@ -1,0 +1,308 @@
+/* Navbar */
+
+.container-fluid {
+    width: 96% !important;
+}
+
+/* Main page */
+
+.mainpage {
+    height: 770px;
+    gap: 10px;
+    margin-top: 0px;
+    align-items: start;
+}
+
+.mainleft h1 {
+    font-size: 41px;
+}
+
+.mainleft {
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+
+.mainleft p {
+    margin-top: 400px;
+    font-size: 19px;
+}
+
+.mainright {
+    height: 315px;
+    position: absolute;
+    width: 100%;
+    top: 270px;
+    padding: 0px 10px;
+}
+
+
+
+.bookbtn {
+    width: 100%;
+}
+
+
+/* Ads box */
+
+
+.adsbox {
+    gap: 8px;
+}
+
+
+/* Main 2 */
+
+
+
+.seobox {
+    width: 97%;
+}
+
+.learnmore {
+    display: none;
+}
+
+.left-engine1 h1 {
+    font-size: 20px;
+}
+
+.boxheading {
+    width: 164px;
+
+}
+
+.left-engine2 img {
+    width: 165px;
+}
+
+.left-engine2 {
+    align-items: end;
+}
+
+.seobox {
+    padding: 35px;
+}
+
+.left-seo {
+    gap: 0px;
+}
+
+.left-seo-none {
+    display: none;
+}
+
+.left-seo-block {
+    display: block;
+}
+
+.right-seo {
+    gap: 0px;
+}
+
+.happen {
+    border: none;
+}
+
+.happen h1 {
+    background-color: #F3F3F3;
+    display: block;
+    width: auto;
+    padding: 0px;
+}
+
+.happen button {
+    height: 70px;
+    border-radius: 14px;
+}
+
+.circle-block {
+    display: flex;
+}
+
+.services {
+    justify-content: center;
+    text-align: center;
+    padding-left: 0px;
+}
+
+
+
+/* Main list */
+
+
+
+.listbox p {
+    display: none;
+}
+
+.listbox {
+    width: 95%;
+    height: 98px;
+    background-color: #F3F3F3;
+    justify-content: center;
+}
+
+.listfirstbox {
+    padding: 0px 10px;
+    width: 100%;
+    border: none;
+
+}
+
+.listfirstbox h1 {
+    font-size: 18px;
+}
+
+.circle-none {
+    display: none;
+}
+
+.listbox-grey {
+    width: 95%;
+    height: 106px;
+    padding: 0px;
+    gap: 0px;
+    padding: 0px 10px;
+}
+
+.line-circle {
+    height: 30px;
+    width: 30px;
+    background-color: #F3F3F3;
+    border: 1px solid black;
+}
+
+.number {
+    font-size: 38px !important;
+}
+
+.listbox-grey h1 {
+    font-size: 18px;
+}
+
+
+
+/* Form */
+
+
+
+textarea {
+
+    height: 132px;
+}
+
+.form-img {
+    display: none !important;
+}
+
+.formbox {
+    background-color: #fff;
+    height: 546px;
+}
+
+form {
+    background: #F3F3F3;
+    border-radius: 45px;
+    height: 450px;
+    padding: 40px 8px;
+    gap: 15px;
+}
+
+.radioBox {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* Footer */
+
+
+footer {
+    width: 100%;
+    height: 945px;
+    border-radius: 0px;
+    padding: 55px 10px 50px 10px;
+    position: relative;
+}
+
+.footnav ul {
+
+    flex-direction: column;
+    gap: 15px;
+    padding-left: 0px !important;
+}
+
+.icon-ul {
+
+    position: absolute;
+    flex-direction: row !important;
+    display: flex !important;
+    bottom: 130px;
+    left: 33%;
+
+
+}
+
+.subscribe {
+
+    text-align: center;
+}
+
+.footnav {
+    height: 220px;
+    display: block;
+    text-align: center;
+
+}
+
+
+.logo {
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.foot-form {
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+    margin: 0 auto;
+}
+
+.foot-end {
+    /* border: none; */
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.foot-end ul {
+    gap: 5px;
+    width: 85%;
+    justify-content: center;
+}
+
+.foot-btn {
+    width: 92%;
+    height: 216px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 10px;
+    align-items: center;
+    padding: 58px 20px 58px 20px;
+}
+
+.foot-btn a {
+    width: 100%;
+}
+
+.bigbtn {
+    width: 100%;
+}
+
+.footbox {
+    height: auto;
+}
+
+.foot-main {
+    justify-content: center;
+}
