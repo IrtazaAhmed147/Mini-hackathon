@@ -88,8 +88,7 @@
 
 
 .adsbox {
-    height: 50px;
-
+   
     margin: 80px 0px;
     gap: 30px;
     justify-content: space-evenly;
@@ -226,7 +225,7 @@
 
 .listbox {
     height: 279px;
-    width: 1234px;
+    width: 90%;
     background-color: #B9FF66;
     border-radius: 45px;
     display: flex;
@@ -269,7 +268,7 @@
 
 .listbox-grey {
     height: 159px;
-    width: 1234px;
+    width: 90%;
     background-color: #F3F3F3;
     border-radius: 45px;
     display: flex;
@@ -366,8 +365,10 @@ textarea {
 
 .formbtn {
     width: 100%;
+    border-radius: 14px;
     height: 68px;
     padding: 20px 35px 20px 35px;
+
 
 }
 

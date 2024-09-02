@@ -7,7 +7,7 @@
 /* Main page */
 
 .mainpage {
-    height: 770px;
+    height: 830px;
     gap: 10px;
     margin-top: 0px;
     align-items: start;
@@ -31,7 +31,7 @@
     height: 315px;
     position: absolute;
     width: 100%;
-    top: 270px;
+    top: 300px;
     padding: 0px 10px;
 }
 
@@ -47,6 +47,8 @@
 
 .adsbox {
     gap: 8px;
+    margin: 40px 0px;
+  
 }
 
 
